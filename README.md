@@ -39,8 +39,8 @@
 
 ### 📫 Let's Connect
 
-- 💌 Email: [your-email@example.com] *(o deja solo GitHub si no quieres ponerlo ahora)*
-- 🌐 Portfolio (coming soon...)
+- 💌 Email: [yetsabeparra@gmail.com]
+- 🌐 Portfolio (in progress...)
 
 ---
 
