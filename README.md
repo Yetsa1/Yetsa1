@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/Yesta1/Yesta1/blob/main/banner.png" alt="Banner Yetsabé Parra" width="100%">
+  <img src="https://github.com/Yetsa1/Yetsa1/blob/main/banner.png" alt="Banner Yetsabé Parra" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Yetsabé Parra</h1>
