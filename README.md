@@ -22,3 +22,25 @@
 ---
 
 ### 📚 Projects
+
+- [`so_long`](https://github.com/Yetsa1/so_long): A 2D game built in C using MiniLibX.
+- [`ft_printf`](https://github.com/Yetsa1/Ring2-42Cursus/tree/main/ft_printf): My own implementation of the classic `printf` function.
+- [`get_next_line`](https://github.com/Yetsa1/Ring2-42Cursus/tree/main/get_next_line): Reads any file line by line using file descriptors.
+
+---
+
+### 🚀 Goals
+
+- 🔍 Learn more about secure development & open-source.
+- 🎯 Land my first professional opportunity in IT.
+- 🛠️ Keep building and improving projects — with passion & curiosity.
+
+---
+
+### 📫 Let's Connect
+
+- 💌 Email: [your-email@example.com] *(o deja solo GitHub si no quieres ponerlo ahora)*
+- 🌐 Portfolio (coming soon...)
+
+---
+
